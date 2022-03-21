@@ -8,3 +8,6 @@ var BlazorCookies;
         Scripts.BlazorCookiesInterop = BlazorCookiesInterop;
     })(Scripts = BlazorCookies.Scripts || (BlazorCookies.Scripts = {}));
 })(BlazorCookies || (BlazorCookies = {}));
+
+
+no thank you
